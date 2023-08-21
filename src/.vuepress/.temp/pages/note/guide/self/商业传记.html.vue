@@ -1,0 +1,15 @@
+<template><div><h1 id="商业传记" tabindex="-1"><a class="header-anchor" href="#商业传记" aria-hidden="true">#</a> 商业传记</h1>
+<h2 id="苏世民-我的经验与教训" tabindex="-1"><a class="header-anchor" href="#苏世民-我的经验与教训" aria-hidden="true">#</a> 苏世民：我的经验与教训</h2>
+<p>《<a href="https://book.douban.com/subject/34952676/" target="_blank" rel="noopener noreferrer">苏世民：我的经验与教训<ExternalLinkIcon/></a>》阅读体验不错，其中故事化的情节让本书更有趣，比如：「第一份工作是为了获取比同班同学更高的工资 (一万)，强行跟对方招聘人员，说我要 10500 美元」，「工作初期的工作是审核对方公司报告，作者判断公司 A 不行，可是公司没有接受。过了几年话，公司 A 倒闭，证券公司被告。原告将作者形容成一个天才，而自己公司就把作者形容成白痴，最后原告赢了」。</p>
+<p>从中可以汲取的经验有：</p>
+<ul>
+<li>人们总觉得最有意思的话题就是与自己相关的话题。</li>
+<li>在展示自己时，印象非常重要。整体形象必须毫无瑕疵。</li>
+<li>做一件不可能的事，挑战自己，也是打破自己。</li>
+<li>投资原则：<strong>不要亏钱</strong>。</li>
+</ul>
+<h2 id="原则" tabindex="-1"><a class="header-anchor" href="#原则" aria-hidden="true">#</a> 原则</h2>
+<p>《<a href="https://book.douban.com/subject/27608239/" target="_blank" rel="noopener noreferrer">原则<ExternalLinkIcon/></a>》对我的影响最大，结合批评与自我批评，找到了提升的方向。但一定要制订计划，并严格按照计划来走，否则只会是一本无聊的理论书。总结内容查看 <a href="https://newzone.top/posts/2021-05-31-principles_criticism_and_self-criticism.html" target="_blank" rel="noopener noreferrer">普通人的生活原则－批评与自我批评<ExternalLinkIcon/></a>。</p>
+</div></template>
+
+
